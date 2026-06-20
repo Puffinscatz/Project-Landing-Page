@@ -1,1 +1,1 @@
-# Project-Landing-Page
+A small project using HTML and CSS to create a landing page.
